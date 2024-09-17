@@ -1,3 +1,3 @@
-![alt text](image.png)
+![alt text](image-1.png)
 
-this is a clone website of MammothMarch web. 
+This is a clone website of the MammothMarch web
